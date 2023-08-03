@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Murilo Destefani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilodestefani&color=8257E5&style=flat-square" alt="Profile views" /> </p>
 
-- 🎬 I'm a professional in video and photography at [MD Produtora](https://www.instagram.com/md_produtora/)
+- 📖 I'm currently a TADS student at [IFMS-NA](https://www.ifms.edu.br/)
 
-- 📖 I'm currently study at [IFMS-NA](https://www.ifms.edu.br/)
+- 🎬 I'm a professional in video and photography at [MD Produtora](https://www.instagram.com/md_produtora/)
 
 - 🕹️ I love games
 
@@ -12,48 +12,40 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="25" height="25" /> &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-633BBC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-633BBC?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-633BBC?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-633BBC?style=for-the-badge&logo=javascript&logoColor=FFFFFF)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-633BBC?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-633BBC?style=for-the-badge&logo=figma&logoColor=FFFFFF)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-633BBC?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)&nbsp;
+![Premiere](https://img.shields.io/badge/-Premiere-633BBC?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)&nbsp;
+![Git](https://img.shields.io/badge/-Git-633BBC?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=murilodestefani&show_icons=true&theme=midnight-purple" alt="murilodestefani's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodestefani&layout=compact&theme=midnight-purple" alt="murilodestefani's most languages"/>
 </p>
--->
 
 <br><br>
 
-## Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<p align="left">
+<a href="https://instagram.com/murilo_destefani" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-murilo_destefani-222222?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.facebook.com/destefanimurilo" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-destefanimurilo-222222?style=flat&logo=facebook" alt="facebook"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://api.whatsapp.com/send?phone=5567998105859&text=Ol%C3%A1%20%F0%9F%91%8B,%20venho%20pelo%20link%20no%20seu%20perfil%20no%20Github." target="_blank">
+ <img align="center" src="https://img.shields.io/badge/(67)998105859-222222?style=flat&logo=whatsapp" alt="facebook"/>
 </a>
 </p>
