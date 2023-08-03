@@ -2,19 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Murilo Destefani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilodestefani&color=8257E5&style=flat-square" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🎬 I'm a professional in video and photography at [MD Produtora](https://www.instagram.com/md_produtora/)
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 📖 I'm currently study at [IFMS-NA](https://www.ifms.edu.br/)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 🕹️ I love games
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
-<!--
+- 🍻 Beer connoisseur
 
 <br><br>
 
