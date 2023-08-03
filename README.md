@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/murilodestefani/1d3fb407f72cecff838f7c3c68f08951/raw/2cae2a529ea8ca6587287c5b79af937a09329efc/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Murilo Destefani</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Murilo Destefani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilodestefani&color=8257E5&style=flat-square" alt="Profile views" /> </p>
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
